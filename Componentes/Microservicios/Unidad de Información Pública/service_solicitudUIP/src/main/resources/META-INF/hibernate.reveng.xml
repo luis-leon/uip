@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+    <!--<table-filter match-schema="test" match-name="user"/> 
+    <table-filter match-schema="sat_uip" match-name="solicitud_uip"/>
+    <table-filter match-schema="sat_uip" match-name="asignacion"/>
+    <table-filter match-schema="sat_uip" match-name="cita"/>
+    <table-filter match-schema="sat_uip" match-name="contribuyente"/>-->
+    <!--<table-filter match-schema="sat_uip" match-name="datos_contacto"/>
+    <table-filter match-schema="sat_uip" match-name="estatus"/>
+    <table-filter match-schema="sat_uip" match-name="pais"/>
+    <table-filter match-schema="sat_uip" match-name="persona_juridica"/>
+    <table-filter match-schema="sat_uip" match-name="persona_natural"/>
+    <table-filter match-schema="sat_uip" match-name="razon_cita"/>
+    <table-filter match-schema="sat_uip" match-name="resultado"/>-->
+</hibernate-reverse-engineering>
