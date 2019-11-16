@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+    <!-- <table-filter match-schema="test" match-name="user"/> 
+    <table-filter match-schema="sat_uip" match-name="cat_revisores"/>
+    <table-filter match-schema="sat_uip" match-name="asignacion"/>
+    <table-filter match-schema="sat_uip" match-name="colaborador_revisor"/>-->
+    
+  
+    
+</hibernate-reverse-engineering>
