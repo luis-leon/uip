@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: microservicio_node_alfresco
+  cloud:
+    config:
+      failFast: false
+      uri: ${urlServerConfig:http://127.0.0.1}
